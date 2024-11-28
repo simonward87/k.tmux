@@ -13,14 +13,14 @@
 1. Clone to your chosen directory:
 
 ```bash
-mkdir -p ~/.config/tmux/plugins/k.tmux
-git clone https://github.com/simonward87/k.tmux.git ~/.config/tmux/plugins/k.tmux
+mkdir -p ~/.config/tmux/plugins/k
+git clone https://github.com/simonward87/k.tmux.git ~/.config/tmux/plugins/k
 ```
 
 2. Source your chosen palette via your `tmux.conf` file:
 
 ```
-source-file ~/.config/tmux/plugins/k.tmux/dusk.theme.conf
+source-file ~/.config/tmux/plugins/k/dusk.theme.conf
 ```
 
 3. Reload Tmux – either by restarting, or reloading with `tmux source ~/.tmux.conf`
