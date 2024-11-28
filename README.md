@@ -6,7 +6,7 @@
 
 - Strong contrast
 - Four variations, two light & two dark
-- [Neovim](https://github.com/simonward87/k.nvim) & Alacritty friends
+- [Neovim](https://github.com/simonward87/k.nvim) & [Alacritty](https://github.com/simonward87/k.alacritty) friends
 
 ## Manual Installation
 
